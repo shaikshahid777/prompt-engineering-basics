@@ -129,7 +129,7 @@ Through this project, I practiced how to:
 
 
 \## Loom Video
-
+https://www.loom.com/share/c6499b1af2694931aa71bc79cdebacb9
 
 
 \### Topic Walkthrough
