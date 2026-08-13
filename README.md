@@ -127,22 +127,17 @@ Through this project, I practiced how to:
 \- Build reusable prompt templates
 
 
+## Loom Video
 
-\## Loom Video
+### Topic 2 Walkthrough
+
 https://www.loom.com/share/c6499b1af2694931aa71bc79cdebacb9
 
-
-\### Topic Walkthrough
-
-
+### Course Topic Walkthrough
 
 https://youtu.be/KmygdunN1UA
 
-
-
-\### Overview Video
-
-
+### Overview Video
 
 https://youtu.be/WKEoq0OnuBE
 
